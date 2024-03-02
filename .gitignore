@@ -1,0 +1,8 @@
+#This file was created because i use ESlint on my machine
+
+/node_modules/
+
+.eslintrc.js
+
+package-lock.json
+package.json
